@@ -11,7 +11,7 @@
 
 **If you think this project is helpful to you, you may wish to give a**:star2:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alireza7)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/7)
 
 - USDT (TRC20): `TYTq73Gj6dJ67qe58JVPD9zpjW2cc9XgVz`
 - Tezos (XTZ):
@@ -37,7 +37,7 @@
 ## Install & Upgrade to Latest Version
 
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/mobinmahdavi/x-ui/master/install.sh)
 ```
 
 ## Install Custom Version
@@ -45,7 +45,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.s
 **Step 1:** To install your desired version, add the version to the end of the installation command. e.g., ver `1.8.0`:
 
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh) 1.8.0
+bash <(curl -Ls https://raw.githubusercontent.com/mobinmahdavi/x-ui/master/install.sh) 1.8.0
 ```
 
 ## Manual Install & Upgrade
